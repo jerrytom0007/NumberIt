@@ -1,5 +1,5 @@
-# NumberIt
-number each element in a `csv` file with `python 3`.
+# Repetitions Statistics
+count repetitions of each element's in a `csv` file with `python 3`.
 This is usually used to number each **repeated** elements in a `csv` file.
 
 1. Transform your `xls` or `odt` files to `csv` files.
